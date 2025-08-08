@@ -3,12 +3,14 @@
 <h1 align="center">Hi 👋, I'm Al Zami</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
-# 💫 About Me:
+<p srtyle={margint-top={100}}>
+  # 💫 About Me:
 👋 Hi, I’m Md Al Zami — a passionate learner and problem solver who loves turning ideas into impactful digital products.
 💻 Currently, I’m working on CO2BD, a social development platform designed to inspire and connect communities.
 🚀 My ambition is to become a world-class Web & AI Developer, building solutions that blend cutting-edge technology with real-world impact.
 📚 At the moment, I’m diving deep into Next.js to expand my full-stack capabilities and bring even more performance, scalability, and innovation to my projects.
 🌟 Always exploring, always building.
+</p>
 
 
 # 💻 Tech Stack:
