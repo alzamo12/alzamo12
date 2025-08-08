@@ -50,7 +50,7 @@
     <h2 style="font-size: 1.25rem; margin: 0 0 10px 0;">📊 GitHub Stats</h2>
     <div style="display:flex; flex-direction:column; gap:12px; align-items:flex-start;">
       <img src="https://github-readme-stats.vercel.app/api?username=alzamo12&show_icons=true&theme=radical" alt="Zami's GitHub stats" style="max-width:100%; height:auto; display:block; border-radius:6px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamo12&layout=compact&theme=radical" alt="Top Languages" style="max-width:100%; width:100%; height:auto; display:block; border-radius:6px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamo12&layout=compact&theme=radical" alt="Top Languages" style="max-width:100%; height:auto; display:block; border-radius:6px;">
     </div>
   </section>
 
