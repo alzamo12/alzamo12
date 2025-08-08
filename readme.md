@@ -4,8 +4,11 @@
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 # 💫 About Me:
-I'm currently working on a project name co2bd<br>I am eager to learn deep web development and AI development<br>I am currently leaning Next.js
-
+👋 Hi, I’m Md Al Zami — a passionate learner and problem solver who loves turning ideas into impactful digital products.
+💻 Currently, I’m working on CO2BD, a social development platform designed to inspire and connect communities.
+🚀 My ambition is to become a world-class Web & AI Developer, building solutions that blend cutting-edge technology with real-world impact.
+📚 At the moment, I’m diving deep into Next.js to expand my full-stack capabilities and bring even more performance, scalability, and innovation to my projects.
+🌟 Always exploring, always building.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alzami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafiqulislam4969@gmail.com) 
