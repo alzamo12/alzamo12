@@ -66,6 +66,8 @@
   </ul>
 </section>
 
+Email: rafiqulislam4969@gmail.com
+Contact: +880-1733239877
 
 </div>
 
