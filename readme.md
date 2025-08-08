@@ -54,6 +54,19 @@
     </div>
   </section>
 
+  <!-- CURRENT OVERVIEW -->
+<section style="margin-bottom: 24px;">
+  <h2 style="font-size: 1.25rem; margin: 0 0 10px 0;">📌 Current Overview</h2>
+  <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
+    <li>🚀 Actively working on <strong>CO2BD</strong> – a social development platform to connect and inspire communities.</li>
+    <li>📚 Learning <strong>Next.js</strong> to enhance my full-stack development skills with server-side rendering & better scalability.</li>
+    <li>🤖 Exploring <strong>Full-Stack development</strong> to mkae meaningful web applicarions</li>
+    <li>🔍 Continuously improving skills in <strong>React.js, Node.js, Express.js, MongoDB, and modern web technologies</strong>.</li>
+    <li>🌟 Committed to building projects that merge innovation with real-world impact.</li>
+  </ul>
+</section>
+
+
 </div>
 
 
