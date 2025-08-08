@@ -20,6 +20,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alzamo12&layout=compact&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Al Zami&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Streak](https://streak-stats.demolab.com?user=alzamo12&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
