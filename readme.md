@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋, I'm Md Al Zami</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on [Zap Shift](https://github.com/alzamo12/zap-shift-client.git)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alzamo12/](https://github.com/alzamo12/)
-
-- 💬 Ask me about **React.js, Express.js, Node.js, MondgoDB**
-
-- 📫 How to reach me **alzami4969@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/27343654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27343654" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alzamo12&show_icons=true&locale=en&layout=compact" alt="alzamo12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alzamo12&show_icons=true&locale=en" alt="alzamo12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alzamo12&" alt="alzamo12" /></p>
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<h2>Check My Nuxt Starter Kit</h2>
+  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
+      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
+    </a>
+<h2>Latest Blog Posts</h2>
+  <ul>
+  <li><a href=https://mokkapps.de/blog/vercel-acquires-nuxtlabs target="_blank" rel="noreferrer nofollow">Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt</a></li><li><a href=https://mokkapps.de/blog/implementing-esr-nuxt target="_blank" rel="noreferrer nofollow">Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance</a></li><li><a href=https://mokkapps.de/blog/why-i-developed-my-own-nuxt-starter-kit target="_blank" rel="noreferrer nofollow">Why I Developed My Own Nuxt Starter Kit for SaaS Products</a></li><li><a href=https://mokkapps.de/blog/document-your-nuxt-endpoints-with-open-api-and-visualize-with-swagger-or-scalar target="_blank" rel="noreferrer nofollow">Document Your Nuxt Endpoints With OpenAPI and Visualize With Swagger or Scalar</a></li><li><a href=https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator target="_blank" rel="noreferrer nofollow">Nuxt Tip: Managing Page Load States With useLoadingIndicator</a></li>
+  </ul>
+<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
+<h2>Latest Newsletter Issues</h2>
+  <ul>
+    <li><a href=https://weekly-vue.news/issues/v2/173 target="_blank" rel="noreferrer nofollow">Weekly Vue News #209 - Explore Nuxt 4, Vue PDF Viewer, Docus v4, and Latest Vue News</a></li><li><a href=https://weekly-vue.news/issues/v2/172 target="_blank" rel="noreferrer nofollow">Weekly Vue News #208 - Vue 3.6 Alpha, Nuxt Performance, and Modern Node.js Patterns</a></li><li><a href=https://weekly-vue.news/issues/v2/171 target="_blank" rel="noreferrer nofollow">Weekly Vue News #207 - Nuxt 4.0 is out</a></li><li><a href=https://weekly-vue.news/issues/v2/170 target="_blank" rel="noreferrer nofollow">Weekly Vue News #206 - NuxtLabs is joining Vercel</a></li><li><a href=https://weekly-vue.news/issues/v2/169 target="_blank" rel="noreferrer nofollow">Weekly Vue News #205 - Vue Language Tools 3.0, useSlots, Nuxt Tips & More</a></li>
+  </ul>
+<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
