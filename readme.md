@@ -6,7 +6,7 @@
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color: #0b0b0b; line-height: 1.6; max-width: 900px; margin: 16px auto; padding: 8px;">
 
   <!-- ABOUT -->
-  <section style="margin-bottom: 24px;">
+  <section style="margin-bottom: 50px;">
     <h1 style="font-size: 1.6rem; margin: 0 0 8px 0;">💫 About Me</h1>
     <p style="margin: 6px 0;">
       👋 Hi, I’m <strong>Md Al Zami</strong> — a passionate learner and problem solver who loves turning ideas into impactful digital products.
