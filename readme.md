@@ -66,8 +66,16 @@
   </ul>
 </section>
 
-Email: rafiqulislam4969@gmail.com
-Contact: +880-1733239877
+<!-- CONTACT INFO -->
+<section style="margin-bottom: 24px;">
+  <h2 style="font-size: 1.25rem; margin: 0 0 10px 0;">📬 Contact Me</h2>
+  <p>If you’d like to connect, collaborate, or just say hi, feel free to reach out!</p>
+  <ul style="list-style: none; padding: 0; margin: 8px 0 0 0; line-height: 1.6;">
+    <li>📧 Email: <a href="mailto:your.email@example.com" style="color: #0366d6; text-decoration: none;">rafiqulislam4969@gmail.com</a></li>
+    <li>📧 Phone: <a  style="color: #0366d6; text-decoration: none;">+880-1733239877</a></li>
+  </ul>
+</section>
+
 
 </div>
 
